@@ -1,4 +1,4 @@
-class myfirstjavaprog
+class myfirstjava
 {  
         public static void main(String args[])
         {
